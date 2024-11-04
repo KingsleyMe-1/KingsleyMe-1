@@ -1,6 +1,6 @@
 <h1><img src="https://slackmojis.com/emojis/4963-blush/download" width="30"/> Hey, Nice to see you.</h1>
 
-I'm ***Kingsley James J. Digman*** a Computer Engineer in Cebu City. ***My goal in life is to make a better change in this world***. I am currently have a knowledge about embedded programming such as using this programming language ***C***, ***ASSEMBLY LANGUAGE*** and ***Python***. Also i am hoping to learn more about ***artificial intelligence to use it with my future projects with an arduino***. If you want to know more about me you can approach me in my social media below: <br><br>
+I'm ***Kingsley James J. Digman*** a Computer Engineer in Cebu City. ***My goal in life is to make a better change in this world***. I am currently have a knowledge about embedded programming such as using this programming language ***C*** and ***ASSEMBLY LANGUAGE***. While also in web development my current skills is HTML, CSS, JAVASCRIPT and PHP. Also doing some project that using the framwework ***REACT.JS*** and ***LARAVEL***. If you want to know more about me you can approach me in my social media below: <br><br>
 
 <a href="https://web.facebook.com/kingsleyjames.digman.3"><img src="https://dragon.img2go.com/download-file/4d5b2fa0-c6d5-488f-8152-3fb0d4752044/a070bfa6-3329-4f30-9e07-21787f8c9895"></a><img>
 <a href="https://www.instagram.com/kingsleyme132/"><img src="https://dragon.img2go.com/download-file/2d0f9fcc-fed3-4f63-a0f4-e3d9232e6e77/f619192e-2fdf-4afa-8208-b00c30ab6039"></a><img>
