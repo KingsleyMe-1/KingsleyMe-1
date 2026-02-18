@@ -10,7 +10,7 @@ I'm ***Kingsley James J. Digman*** a Software Engineer in Cebu City. ***My goal 
 
 ### Current Status Quo:
 
-- 💼 Full-Stack <strong>React JS / PHP Developer</strong>.
+- 💼 Full-Stack <strong>ReactJS Developer</strong>.
 - 💼  <strong>Embedded System Programmer</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development and Embedded System</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Embedded Programming and Web Development</strong>
